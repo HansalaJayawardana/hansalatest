@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Number Guessing Game',
+      title: 'No Guessing Game',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
